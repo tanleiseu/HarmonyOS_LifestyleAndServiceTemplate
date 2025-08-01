@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "这是一个适用于停车缴费的元服务模板"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "这是一个适用于停车缴费的元服务模板"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "停车缴费模板"
+    },
+    {
+      "name": "location_reason",
+      "value": "停车定位，附近搜索"
+    },
+    {
+      "name": "approximately_location_reason",
+      "value": "停车定位，附近搜索"
+    },
+    {
+      "name": "PhoneFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "PhoneFormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "widget1x2_desc",
+      "value": "停车缴费"
+    },
+    {
+      "name": "widget1x2_display_name",
+      "value": "停车缴费"
+    },
+    {
+      "name": "widget2x2_desc",
+      "value": "停车缴费"
+    },
+    {
+      "name": "widget2x2_display_name",
+      "value": "停车缴费"
+    }
+  ]
+}

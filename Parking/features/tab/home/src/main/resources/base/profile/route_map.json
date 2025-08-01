@@ -1,0 +1,20 @@
+{
+  "routerMap": [
+    {
+      "name": "PayPage",
+      "pageSourceFile": "src/main/ets/pages/PayPage.ets",
+      "buildFunction": "PayPageBuilder",
+      "data": {
+        "description": "订单缴费页面"
+      }
+    },
+    {
+      "name": "QueryPage",
+      "pageSourceFile": "src/main/ets/pages/QueryPage.ets",
+      "buildFunction": "QueryPageBuilder",
+      "data": {
+        "description": "订单查询页面"
+      }
+    }
+  ]
+}

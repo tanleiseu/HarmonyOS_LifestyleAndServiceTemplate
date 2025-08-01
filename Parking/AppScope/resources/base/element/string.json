@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "停车缴费模板"
+    },
+    {
+      "name": "agcit_huawei_parking",
+      "value": "1.0.0"
+    },
+    {
+      "name": "agcittype_huawei_parking",
+      "value": "industryTemplate"
+    }
+  ]
+}

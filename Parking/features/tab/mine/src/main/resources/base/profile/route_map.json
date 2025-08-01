@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "ProfileEdit",
+      "pageSourceFile": "src/main/ets/pages/ProfileEditPage.ets",
+      "buildFunction": "ProfileEditPageBuilder",
+      "data": {
+        "description": "用户信息编辑页面"
+      }
+    }
+  ]
+}

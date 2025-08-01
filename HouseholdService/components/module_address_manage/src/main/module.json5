@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "module_address_manage",
+    "type": "har",
+    "routerMap": "$profile:addr_route_map",
+    "deviceTypes": [
+      "phone"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>隐私政策</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#165DFF',
+                        neutral: {
+                            100: '#F5F7FA',
+                            700: '#1D2129',
+                        }
+                    },
+                    fontFamily: {
+                        inter: ['Inter', 'system-ui', 'sans-serif'],
+                    },
+                }
+            }
+        }
+    </script>
+</head>
+<body class="font-inter bg-neutral-100 text-neutral-700 min-h-screen flex flex-col">
+<!-- 主内容区 -->
+<main class="flex-grow container mx-auto px-4 py-12">
+    <div class="max-w-3xl mx-auto bg-white rounded-xl shadow-md p-8">
+        <h1 class="text-3xl font-bold text-center mb-8">隐私政策</h1>
+
+        <div class="prose max-w-none">
+            <p class="text-lg leading-relaxed">
+                公司尊重并保护用户的隐私。我们收集的信息仅用于提供和改进我们的服务，不会在未获得您明确许可的情况下与第三方共享。我们采用行业标准的安全措施保护您的个人信息，并确保其处理符合适用的隐私法规。您可以随时联系我们了解您的信息如何被使用，或行使您的数据主体权利。使用我们的服务即表示您同意本隐私政策的条款。
+            </p>
+        </div>
+    </div>
+</main>
+</body>
+</html>

@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "margin_4",
+      "value": "4vp"
+    },
+    {
+      "name": "margin_8",
+      "value": "8vp"
+    },
+    {
+      "name": "margin_10",
+      "value": "10vp"
+    },
+    {
+      "name": "margin_12",
+      "value": "12vp"
+    },
+    {
+      "name": "margin_16",
+      "value": "16vp"
+    },
+    {
+      "name": "margin_24",
+      "value": "24vp"
+    },
+    {
+      "name": "margin_48",
+      "value": "48vp"
+    },
+    {
+      "name": "padding_4",
+      "value": "4vp"
+    },
+    {
+      "name": "padding_6",
+      "value": "6vp"
+    },
+    {
+      "name": "padding_8",
+      "value": "8vp"
+    },
+    {
+      "name": "padding_12",
+      "value": "12vp"
+    },
+    {
+      "name": "padding_10",
+      "value": "10vp"
+    },
+    {
+      "name": "padding_16",
+      "value": "16vp"
+    }
+  ]
+}

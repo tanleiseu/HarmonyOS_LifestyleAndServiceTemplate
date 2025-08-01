@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "BindPhonePage",
+      "pageSourceFile": "src/main/ets/pages/BindPhonePage.ets",
+      "buildFunction": "BindPhonePageBuilder",
+      "data": {
+        "description": "账号电话关联页面"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "CommonAddress",
+      "pageSourceFile": "src/main/ets/pages/CommonAddressPage.ets",
+      "buildFunction": "CommonAddressPageBuilder",
+      "data": {
+        "description": "常用地址列表页面"
+      }
+    }
+  ]
+}

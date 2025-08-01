@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "base_calendar",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+      "2in1"
+    ]
+  }
+}

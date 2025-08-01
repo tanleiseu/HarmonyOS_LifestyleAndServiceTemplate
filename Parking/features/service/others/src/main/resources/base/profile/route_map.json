@@ -1,0 +1,36 @@
+{
+  "routerMap": [
+    {
+      "name": "MyCollect",
+      "pageSourceFile": "src/main/ets/collect/CollectPage.ets",
+      "buildFunction": "CollectPageBuilder",
+      "data": {
+        "description": "停车场收藏列表页面"
+      }
+    },
+    {
+      "name": "PrivacyPolicy",
+      "pageSourceFile": "src/main/ets/privacypolicy/PrivacyPolicyPage.ets",
+      "buildFunction": "PrivacyPolicyPageBuilder",
+      "data": {
+        "description": "隐私政策详情页面"
+      }
+    },
+    {
+      "name": "OrderList",
+      "pageSourceFile": "src/main/ets/order/pages/OrderListPage.ets",
+      "buildFunction": "OrderListPageBuilder",
+      "data": {
+        "description": "订单列表页面"
+      }
+    },
+    {
+      "name": "OrderDetail",
+      "pageSourceFile": "src/main/ets/order/pages/OrderDetailPage.ets",
+      "buildFunction": "OrderDetailPageBuilder",
+      "data": {
+        "description": "订单详情页面"
+      }
+    }
+  ]
+}

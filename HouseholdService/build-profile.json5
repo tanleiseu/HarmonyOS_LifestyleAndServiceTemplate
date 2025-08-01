@@ -1,0 +1,82 @@
+{
+  "app": {
+    "signingConfigs": [
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./products/entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "lib_foundation",
+      "srcPath": "./commons/lib_foundation"
+    },
+    {
+      "name": "module_base",
+      "srcPath": "./components/module_base"
+    },
+    {
+      "name": "module_time_select",
+      "srcPath": "./components/module_time_select",
+    },
+    {
+      "name": "module_search",
+      "srcPath": "./components/module_search",
+    },
+    {
+      "name": "module_category",
+      "srcPath": "./components/module_category",
+    },
+    {
+      "name": "module_form",
+      "srcPath": "./components/module_form",
+    },
+    {
+      "name": "module_city_select",
+      "srcPath": "./components/module_city_select"
+    },
+    {
+      "name": "module_address_manage",
+      "srcPath": "./components/module_address_manage"
+    },
+    {
+      "name": "business_home",
+      "srcPath": "./features/business_home"
+    },
+    {
+      "name": "business_mine",
+      "srcPath": "./features/business_mine"
+    },
+  ]
+}

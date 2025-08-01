@@ -1,0 +1,14 @@
+该仓库介绍了鸿蒙开发案例（生活服务类行业模板），更多模板与组件请进入[鸿蒙生态市场](https://developer.huawei.com/consumer/cn/market/prod-list/4437348dd20f48249540d1b57ef2eff6/categoryL2_202410080002)查看！
+
+Gitee（官方）：https://gitee.com/seu_duter/agc-template-market-harmonyos-demos
+
+Github（官方）：https://github.com/AppGalleryConnect/agc-template-market-harmonyos-demos
+
+| 生活服务类（医保）行业模板 | 生活服务类（日历）行业模板 | 政务模板 | 生活服务类（综合家政）行业模板 |
+|:---:|:---:|:---:| :---: |
+| ![生活服务类（医保）行业模板](https://communityfile-drcn.op.hicloud.com/FileServer/getFile/cmtyPrivate/300/034/957/0890086200300034957.20250626111919.38230010933266897325638260259444:20250802203800:2800:68A41527DFE541E66A17B85A1DCF3B42082712B64893B10DCB4756415643F43F.png)| ![生活服务类（日历）行业模板](https://communityfile-drcn.op.hicloud.com/FileServer/getFile/cmtyPrivate/300/034/957/0890086200300034957.20250605095638.32004005912859355500823890791816:20250802203800:2800:06E48750659BAAB743627DADC0C9B37497AD0AB89733DB2037F519920B7337D5.png) | ![政务模板](https://communityfile-drcn.op.hicloud.com/FileServer/getFile/cmtyPrivate/300/034/957/0890086200300034957.20250515090446.99147287887896464941392522955289:20250802203800:2800:9EEF6160F35AF8D0405403087A67B65B4E818F34E08399289114EB8AFFCE6FE4.png) | ![生活服务类（综合家政）行业模板](https://communityfile-drcn.op.hicloud.com/FileServer/getFile/cmtyPrivate/300/034/957/0890086200300034957.20250626114012.91150552412484553906350208042485:20250802203800:2800:5249685B5092BA47953FB05E41F3EDE1323F128166140AF2084C67F08197BB44.png) |
+
+
+| 生活服务类（美业）行业模板 | 生活服务类（停车缴费）行业模板 |  生活服务类（购物中心）行业模板 |
+|:---:|:---:|:---:| 
+| ![生活服务类（美业）行业模板](https://communityfile-drcn.op.hicloud.com/FileServer/getFile/cmtyPrivate/300/034/957/0890086200300034957.20250628095129.38358037378537498433219260062038:20250802203800:2800:CDB6E07BB5C41BBB4D792A7D38599CA97175292115F55DD17DD6EA0D9BFEA2B4.png)| ![生活服务类（停车缴费）行业模板](https://communityfile-drcn.op.hicloud.com/FileServer/getFile/cmtyPrivate/300/034/957/0890086200300034957.20250604160751.19682938700213576237448597862494:20250802203800:2800:E08C7F6B80B26557A7984576E66B12D6547FBA069461580E56BEDFF24377AA08.png) | ![生活服务类（购物中心）行业模板](https://communityfile-drcn.op.hicloud.com/FileServer/getFile/cmtyPrivate/300/034/957/0890086200300034957.20250626163614.32305169690133677013567051391859:20250802204925:2800:94E579BD9C9FF02C45D44039E2D1723734DF0575A6B5974346E35C73D8277885.png) | 

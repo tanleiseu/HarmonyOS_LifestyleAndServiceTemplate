@@ -1,0 +1,20 @@
+{
+  "routerMap": [
+    {
+      "name": "AddLicense",
+      "pageSourceFile": "src/main/ets/pages/AddLicensePage.ets",
+      "buildFunction": "AddLicensePageBuilder",
+      "data": {
+        "description": "新增车牌页面"
+      }
+    },
+    {
+      "name": "MyLicense",
+      "pageSourceFile": "src/main/ets/pages/MyLicensePage.ets",
+      "buildFunction": "MyLicensePageBuilder",
+      "data": {
+        "description": "我的车牌页面"
+      }
+    }
+  ]
+}
