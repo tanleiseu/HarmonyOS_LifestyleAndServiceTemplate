@@ -18,9 +18,9 @@ Github（官方）：https://github.com/AppGalleryConnect/agc-template-market-ha
 
 | 生活服务类（医保）行业模板 | 生活服务类（日历）行业模板 | 政务模板 | 生活服务类（综合家政）行业模板 |
 |:---:|:---:|:---:| :---: |
-| ![输入图片说明](AdministrativeAffairs/Application/screenshot/home.png)| ![输入图片说明](Calendar/screenshot/home.png) | ![输入图片说明](GovernmentService/Application/screenshot/home.png) | ![输入图片说明](HouseholdService/screenshots/%E9%A6%96%E9%A1%B5.jpg) |
+| ![输入图片说明](%E5%8C%BB%E4%BF%9D%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png)| ![输入图片说明](%E6%97%A5%E5%8E%86%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.png) |![输入图片说明](%E6%94%BF%E5%8A%A1%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.png)| ![输入图片说明](%E5%AE%B6%E6%94%BF%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png) |
 
 
 | 生活服务类（美业）行业模板 | 生活服务类（停车缴费）行业模板 |  生活服务类（购物中心）行业模板 |
 |:---:|:---:|:---:| 
-| ![输入图片说明](LifeBeauty/screenshots/%E9%A6%96%E9%A1%B5.jpg)| ![输入图片说明](Parking/screenshots/pic_home.jpeg)| ![输入图片说明](ShoppingMall/screenshots/%E9%A6%96%E9%A1%B5.jpg) | 
+| ![输入图片说明](%E7%BE%8E%E4%B8%9A%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png)| ![输入图片说明](%E5%81%9C%E8%BD%A6%E7%BC%B4%E8%B4%B9%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png)|![输入图片说明](%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%EF%BC%88%E5%95%86%E5%9C%BA%EF%BC%89%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png) | 
