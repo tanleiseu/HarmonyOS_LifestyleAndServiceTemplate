@@ -10,7 +10,7 @@
 </br>
 
 
-该仓库介绍了鸿蒙开发案例（生活服务类行业模板），更多模板与组件请进入[鸿蒙生态市场](https://developer.huawei.com/consumer/cn/market/prod-list/4437348dd20f48249540d1b57ef2eff6/categoryL2_202410080002)查看！
+该仓库介绍了鸿蒙开发案例（生活服务类行业模板），包括停车缴费元服务模板、医保元服务模板、家政元服务模板、政务应用模板、日历应用模板、美业元服务模板、购物中心（商场）元服务模板，更多模板与组件请进入[鸿蒙生态市场](https://developer.huawei.com/consumer/cn/market/prod-list/4437348dd20f48249540d1b57ef2eff6/categoryL2_202410080002)查看！
 
 Gitee（官方）：https://gitee.com/seu_duter/agc-template-market-harmonyos-demos
 
